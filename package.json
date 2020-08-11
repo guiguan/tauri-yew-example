@@ -1,0 +1,15 @@
+{
+  "name": "tauri-yew-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tauri": "tauri",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guiguan",
+  "license": "MIT",
+  "dependencies": {
+    "tauri": "^0.11.1"
+  }
+}
