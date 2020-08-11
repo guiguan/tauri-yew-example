@@ -6,6 +6,10 @@ Hello world example for Tauri + Yew
 
 ## Usage
 
+Tested with:
+- node: v12.16.3
+- osx: 10.15.6
+
 ### Dev
 
 #### Master setup
